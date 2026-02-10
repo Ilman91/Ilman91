@@ -5,6 +5,7 @@
 ### Digital Descender | Silent Builder | Lifelong Learner
 
 > *"Its a terrible day for rain."*
+> *-Full Metal Alchemist: Brotherhood*
 
 **Bandung** | **Belajar Seumur Hidup** | **Always Exploring**
 
@@ -18,7 +19,7 @@ Saya tidak akan bercerita panjang lebar tentang siapa saya — cukup tahu bahwa 
 
 ```javascript
 const ilman = {
-  location: "Djogja 🏛️",
+  location: "Bandung",
   philosophy: "Build in silence, let success make the noise",
   currentFocus: ["Web Development", "UI/UX Design", "Creative Coding"],
   learning: ["Advanced React Patterns", "System Design", "DevOps"],
