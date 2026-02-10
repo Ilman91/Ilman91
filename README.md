@@ -1,12 +1,12 @@
-# 👋 Halo, Saya Ilman Abidullah
+# Halo, Saya Ilman Abidullah
 
 <div align="center">
   
-### 🚀 Digital Descender | Silent Builder | Lifelong Learner
+### Digital Descender | Silent Builder | Lifelong Learner
 
-> *"Berproses dalam diam, membangun dalam ketenangan"*
+> *"Its a terrible day for rain."*
 
-📍 **Djogja** | 🌱 **Belajar Seumur Hidup** | 💡 **Always Exploring**
+**Bandung** | **Belajar Seumur Hidup** | **Always Exploring**
 
 </div>
 
