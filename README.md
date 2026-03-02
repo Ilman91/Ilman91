@@ -2,10 +2,10 @@
 
 <div align="center">
   
-### Digital Descender | Silent Builder | Lifelong Learner
+### Digital Descender
 
-> *"Its a terrible day for rain."*
-> *-Full Metal Alchemist: Brotherhood*
+> *"Everything, but the rain."*
+> *-Bleach*
 
 **Bandung** | **Always Exploring**
 
