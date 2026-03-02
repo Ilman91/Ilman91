@@ -89,7 +89,7 @@ Saya tetap terbuka untuk kolaborasi dan diskusi yang menarik!
 
 <div align="center">
 
-** Feel free to reach out for:**
+**Feel free to reach out for:**
 - Kolaborasi project menarik
 - Diskusi teknologi
 - Berbagi pengalaman dan pembelajaran
