@@ -15,15 +15,20 @@
 
 ## Tentang Saya
 
-Saya tidak akan bercerita panjang lebar tentang siapa saya — cukup tahu bahwa saya adalah seseorang yang **percaya pada kekuatan proses tanpa drama**. Setiap baris kode, setiap desain, setiap project adalah bagian dari perjalanan pembelajaran yang tidak pernah berhenti.
+Setiap baris kode, setiap desain, dan setiap proyek adalah bagian dari perjalanan pembelajaran yang tidak pernah berhenti. Saya lebih suka membiarkan hasil kerja saya yang berbicara.
 
 ```javascript
 const ilman = {
-  location: "Bandung",
+  origin: "Bandung, ID",
   philosophy: "Build in silence, let success make the noise",
-  currentFocus: ["Web Development", "UI/UX Design", "Creative Coding"],
-  learning: ["Advanced React Patterns", "System Design", "DevOps"],
-  funFact: "I believe the best code is written with good coffee ☕"
+  stack: {
+    core: ["Web Development", "UI/UX Design", "Creative Coding"],
+    tools: ["React", "Next.js", "Tailwind", "Node.js"],
+    learning: ["Advanced React Patterns", "System Design", "DevOps"]
+  },
+  fuel: "Premium Coffee ☕",
+  dramaLevel: 0,
+  getStatus: () => "Constantly leveling up without the noise."
 };
 ```
 
