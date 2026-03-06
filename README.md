@@ -1,7 +1,6 @@
 # Halo, Saya Ilman Abidullah
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Digital%20Descender&fontSize=50&animation=fadeIn" width="100%" />
   
 ### Digital Descender
 
@@ -27,9 +26,9 @@ const ilman = {
     tools: ["Laravel", "Tailwind", "PHP"],
     learning: ["Advanced React Patterns", "System Design", "DevOps"]
   },
-  fuel: "Premium Tea",
+  fuel: "Tea",
   dramaLevel: 0,
-  getStatus: () => "Constantly leveling up without the noise."
+  getStatus: () => "Grind until it works, learn when it breaks."
 };
 ```
 
@@ -93,6 +92,10 @@ while (alive) {
 Saya tetap terbuka untuk kolaborasi dan diskusi yang menarik!
 
 <div align="center">
+
+<div align="left">
+<a href="mailto:ilmanabidullah230708@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 **Feel free to reach out for:**
 - Kolaborasi project menarik
