@@ -23,10 +23,10 @@ const ilman = {
   philosophy: "Build in silence, let success make the noise",
   stack: {
     core: ["Web Development", "UI/UX Design", "Creative Coding"],
-    tools: ["React", "Next.js", "Tailwind", "Node.js"],
+    tools: ["Laravel", "Tailwind", "PHP"],
     learning: ["Advanced React Patterns", "System Design", "DevOps"]
   },
-  fuel: "Premium Coffee ☕",
+  fuel: "Premium Tea",
   dramaLevel: 0,
   getStatus: () => "Constantly leveling up without the noise."
 };
