@@ -93,10 +93,6 @@ Saya tetap terbuka untuk kolaborasi dan diskusi yang menarik!
 
 <div align="center">
 
-<div align="left">
-<a href="mailto:ilmanabidullah230708@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
 **Feel free to reach out for:**
 - Kolaborasi project menarik
 - Diskusi teknologi
