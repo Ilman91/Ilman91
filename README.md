@@ -1,6 +1,7 @@
 # Halo, Saya Ilman Abidullah
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Digital%20Descender&fontSize=50&animation=fadeIn" width="100%" />
   
 ### Digital Descender
 
